@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Kabupaten di pulau JAWA</name>
+    <description/>
+    <NetworkLink>
+      <name>Kabupaten di pulau JAWA</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/kml?forcekml=1&mid=1Xh1zIKccvH08nSnIX5NIPrDL4gp_vgY]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
